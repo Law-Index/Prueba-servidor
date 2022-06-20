@@ -1,0 +1,13 @@
+div {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 4px solid #ffffff;
+
+    margin-top: -60px;
+}
+img {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 10px;
+}
